@@ -3,3 +3,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 continuumio/miniconda3
 vllm/vllm-openai
+qwenllm/qwen-omni:2.5-cu121
