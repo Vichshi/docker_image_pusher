@@ -5,3 +5,4 @@ continuumio/miniconda3
 vllm/vllm-openai
 qwenllm/qwen-omni:2.5-cu121
 quay.io/docling-project/docling-serve:latest
+mediagis/nominatim:5.1
